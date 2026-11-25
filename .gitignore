@@ -7,3 +7,11 @@
 !fonts/
 !fonts/*.woff2
 images/.claude/
+# one-page slide: gated index, logo, background, fonts only
+!onepager/
+!onepager/index.html
+!onepager/assets/
+!onepager/assets/*.webp
+!onepager/assets/*.svg
+!onepager/fonts/
+!onepager/fonts/*.woff2
