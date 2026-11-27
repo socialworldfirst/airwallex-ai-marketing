@@ -27,3 +27,8 @@ images/.claude/
 !onepager/visual/index.html
 !onepager/visual/fonts/
 !onepager/visual/fonts/*.woff2
+# one-pager, slide version (Steven's picks): gated index (images inside the encrypted page) and fonts only
+!onepager/slide/
+!onepager/slide/index.html
+!onepager/slide/fonts/
+!onepager/slide/fonts/*.woff2
