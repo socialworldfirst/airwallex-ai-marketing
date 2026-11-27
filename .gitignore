@@ -15,3 +15,10 @@ images/.claude/
 !onepager/assets/*.svg
 !onepager/fonts/
 !onepager/fonts/*.woff2
+# research page (standard HTML): gated index, logo, fonts only
+!report/
+!report/index.html
+!report/assets/
+!report/assets/*.webp
+!report/fonts/
+!report/fonts/*.woff2
