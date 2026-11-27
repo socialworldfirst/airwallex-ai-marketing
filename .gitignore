@@ -22,3 +22,8 @@ images/.claude/
 !report/assets/*.webp
 !report/fonts/
 !report/fonts/*.woff2
+# one-pager, image version: gated index (images are inside the encrypted page) and fonts only
+!onepager/visual/
+!onepager/visual/index.html
+!onepager/visual/fonts/
+!onepager/visual/fonts/*.woff2
